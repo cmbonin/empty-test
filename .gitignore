@@ -1,0 +1,15 @@
+node_modules/*
+tmp/*.json
+dist/*
+/.idea
+coverage/*
+.vscode/*
+.log/*
+launch.json
+build/*
+*/.DS_Store
+.DS_Store
+.env
+folder-to-upload/*
+tmp/*
+
